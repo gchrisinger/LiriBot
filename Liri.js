@@ -10,30 +10,32 @@ var inputParameter = process.argv[3];
 
 
 
-
 // read command line
 var input = process.argv
-// console.log(input)
 var operation = input[2]
 var topic = input.slice(3).join(" ")
 // api,s to get info base on operation command
 
 
 // switch or you can do if/else call the funcion base on the opration
+function UserInputs (userOption, inputParameter){
+switch(userOption){
 
-switch(operation){
-
     case "this-song": 
             findSong();
             break;
-    case "this-song": 
-            findSong();
+    case "this-concert": 
+            findConcert();
             break;
-    case "this-song": 
-            findSong();
+    case "this-do-what-it-says": 
+            find-do-what-it-says();
             break;
+        default;
+        console.log("a little nonsense now and then, is cherished by the wisest men"
+        )
     
 
+}
 }
 //node liri.js concert-this <artist/band name here>`
 function findSong(){
@@ -42,7 +44,7 @@ function findSong(){
 
 
 // query 
-console.log
+
 
 // axios call
  
