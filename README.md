@@ -1,21 +1,18 @@
-# LiriBot
+ var search = process arrovating
+//comment out
 
+//comment out
+a git pushed; git pull;
+b i shiver at the very sight
+b of my code, i know isn't right
+a but what i have is soul
 
+c json, axios, css, html, javascript
+d i'm trying to write a read me
+c read what? i'm undefined:nondescripte
 
-//var spotify = new Spotify(keys.spotify);
+d i want to write you a README.md
+c but my files, mind are zipped
+d up and all i have is this soliloquy
 
-
-// apis to get info base on operation command
-
-
-
-
-// switch or you can do if/else call the funcion base on the opration
-
-//node liri.js concert-this <artist/band name here>`
-//  call api `"https://rest.bandsintown.com/artists/" + artist + "/events?app_id=codingbootcamp
-
-// query // axios call// get the info and console log 
-
-
-//node liri.js spotify-this-song '<song name here>'
+    console.log"Rhymes help grades?!"
